@@ -5,8 +5,8 @@ def q1():
   print (word)
 
 def q2():
-  name = input("Input your name: ")
-  print (f"Hello {name}")
+  name = input("Input your first name: ")
+  print ("Hello " + name)
 
 def q3():
   firstName = input("Input your first name: ")
